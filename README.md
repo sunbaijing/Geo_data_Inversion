@@ -1,1 +1,2 @@
 # Geo_data_Inversion
+Double-travel time and coordination datasets are provided according to different geometry used( including global, cross-well and medical) and target model style(known and unknown). And throguh regularization methods, smoothest, flattest and smallest models are established, however, in some situations, the models are unstable for the deciency of rank. Therefore, one trypical appraock used to deal with sparse matrix --SVD is applied to obatain stable models.
